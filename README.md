@@ -1,15 +1,12 @@
-# 🏧 ATM Cash Utilization Analysis
+ATM Cash Utilization Analysis
 
-## 📌 Project Overview
+Project Overview
 
 **ATM Cash Utilization & Downtime Analysis** is an end-to-end Data Analytics project focused on analyzing ATM cash utilization, withdrawal patterns, cash demand, operational factors, and potential cash-availability risks.
 
 The project uses Python for data cleaning and exploratory data analysis, MySQL for structured data storage and SQL-based analysis, and Microsoft Power BI for interactive dashboard development.
 
-The objective is to transform raw ATM transaction and operational data into meaningful business insights that can help identify high-demand ATMs, understand cash utilization patterns, analyze location and time-based behavior, and identify records associated with potential cash-availability risk.
----
-
-# 🎯 Business Problem
+# Business Problem
 
 ATMs need to maintain sufficient cash availability to meet customer demand.
 
@@ -30,14 +27,14 @@ This project analyzes historical ATM data to answer questions such as:
 - Which locations experience higher cash demand?
 - How does cash demand change over time?
 - Which time periods generate the most ATM activity?
-- How does previous-day cash level relate to next-day demand?
+- How does previous day cash level relate to next-day demand?
 - Which ATMs or records show higher potential cash-availability risk?
 - How does cash utilization vary across ATM locations?
 - How do holidays, special events, weather, and competitors affect ATM activity?
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The major objectives of the project are:
 
@@ -47,17 +44,17 @@ The major objectives of the project are:
 4. Analyze ATM activity by location and time.
 5. Analyze monthly and yearly cash-demand trends.
 6. Study the relationship between previous-day cash level and next-day demand.
-7. Identify high-demand ATM records.
+7. Identify high demand ATM records.
 8. Identify potential cash-availability risk.
 9. Store and analyze the cleaned data using MySQL.
-10. Perform SQL-based business analysis.
+10. Perform SQL based business analysis.
 11. Build interactive Power BI dashboards.
 12. Generate analytical reports.
 13. Study relevant research papers related to ATM cash management and Power BI analytics.
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -77,7 +74,7 @@ The major objectives of the project are:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 ATM_CASH_UTILIZATION_DOWNTIME_ANALYSIS/
