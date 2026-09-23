@@ -7,9 +7,6 @@
 The project uses Python for data cleaning and exploratory data analysis, MySQL for structured data storage and SQL-based analysis, and Microsoft Power BI for interactive dashboard development.
 
 The objective is to transform raw ATM transaction and operational data into meaningful business insights that can help identify high-demand ATMs, understand cash utilization patterns, analyze location and time-based behavior, and identify records associated with potential cash-availability risk.
-
-> **Important:** The provided dataset does not contain an actual ATM downtime/outage column. Therefore, this project does **not** measure actual ATM downtime. Instead, it uses a `Cash_Risk` indicator to identify records that may represent potential cash-availability risk.
-
 ---
 
 # 🎯 Business Problem
