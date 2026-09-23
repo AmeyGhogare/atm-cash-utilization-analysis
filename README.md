@@ -1,4 +1,4 @@
-# 🏧 ATM Cash Utilization & Downtime Analysis
+# 🏧 ATM Cash Utilization Analysis
 
 ## 📌 Project Overview
 
