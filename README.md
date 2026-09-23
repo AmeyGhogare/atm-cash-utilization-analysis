@@ -108,15 +108,11 @@ ATM_CASH_UTILIZATION_DOWNTIME_ANALYSIS/
 ├── powerbi/
 │   └── ATM_Cash_Utilization_Analytics.pbix
 │
-├── researchers_papers/
-│   ├── Research_Paper_1_ATM_Cash_Management_Summary.pdf
-│   └── Research_Paper_2_PowerBI_Analytics_Summary.pdf
-│
 ├── sql/
 │   └── atm_analysis.sql
 │
 └── src/
-    ├── data_cleaning.py
-    ├── visualization.py
+    ├── database.py
+    ├── report.py
     ├── database.py
     └── report.py
